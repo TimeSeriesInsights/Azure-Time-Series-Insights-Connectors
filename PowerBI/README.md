@@ -1,6 +1,6 @@
 # Power BI Data Connector for Azure Time Series Insights
 
-## This is the temporary fix and only works for Power BI Desktop. Please delete this file after December update of Power BI.
+## This is the temporary fix which fixes the 404 error and only works for Power BI Desktop. Please delete this file after December update of Power BI.
 
 ## Steps to use this connector in Power BI Desktop-
 *	Create folder in your Windows system - C:\Users\\\<username>\Documents\Power BI Desktop\Custom Connectors\ 
